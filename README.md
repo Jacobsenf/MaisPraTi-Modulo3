@@ -41,3 +41,13 @@ Abra o Projeto no Navegador
 
 Para visualizar o projeto, localize o arquivo index.html na pasta do projeto.
 Clique com o botão direito do mouse no arquivo e escolha "Abrir com" e selecione o seu navegador de preferência.
+
+------------------------------------------------------------------
+
+### Bibliotecas externas utilizadas
+
+Swiper.js: Swiper é uma biblioteca moderna para criar sliders/carrosséis responsivos e interativos. Ela é altamente personalizável e oferece uma variedade de opções, como navegação, paginação, efeitos de transição e suporte a toques em dispositivos móveis. Swiper é leve e otimizado para desempenho, tornando-a uma escolha popular para desenvolvedores que desejam implementar carrosséis em suas páginas da web.
+
+AOS.js: AOS é uma biblioteca que permite adicionar animações aos elementos da página quando eles aparecem no viewport durante a rolagem. Com AOS, você pode facilmente criar experiências visuais dinâmicas e atraentes sem a necessidade de escrever código complexo. Ele suporta uma ampla gama de animações e pode ser configurado facilmente para atender às suas necessidades.
+
+EmailJS (opcional): EmailJS é um serviço que permite enviar e-mails diretamente do frontend, sem precisar de um backend. Ele fornece uma API fácil de usar que permite que você envie formulários, notificações ou qualquer outro tipo de mensagem para um endereço de e-mail. O EmailJS é ideal para projetos que não possuem um servidor backend e precisam de uma solução rápida para enviar e-mails.
