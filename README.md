@@ -46,7 +46,7 @@ Clique com o botão direito do mouse no arquivo e escolha "Abrir com" e selecion
 
 ### API's utilizadas
 
-A Google Fonts é uma API oferecida pelo Google que permite que desenvolvedores e designers integrem fontes personalizadas em seus sites de maneira simples e eficiente. A biblioteca oferece uma vasta coleção de fontes livres e de alta qualidade que podem ser utilizadas em projetos web, melhorando a tipografia e a estética geral das páginas.
+- Google Fonts: A Google Fonts é uma API oferecida pelo Google que permite que desenvolvedores e designers integrem fontes personalizadas em seus sites de maneira simples e eficiente. A biblioteca oferece uma vasta coleção de fontes livres e de alta qualidade que podem ser utilizadas em projetos web, melhorando a tipografia e a estética geral das páginas.
 
 ------------------------------------------------------------------
 
