@@ -44,6 +44,12 @@ Clique com o botão direito do mouse no arquivo e escolha "Abrir com" e selecion
 
 ------------------------------------------------------------------
 
+### API's utilizadas
+
+A Google Fonts é uma API oferecida pelo Google que permite que desenvolvedores e designers integrem fontes personalizadas em seus sites de maneira simples e eficiente. A biblioteca oferece uma vasta coleção de fontes livres e de alta qualidade que podem ser utilizadas em projetos web, melhorando a tipografia e a estética geral das páginas.
+
+------------------------------------------------------------------
+
 ### Bibliotecas externas utilizadas
 
 - Swiper.js: Swiper é uma biblioteca moderna para criar sliders/carrosséis responsivos e interativos. Ela é altamente personalizável e oferece uma variedade de opções, como navegação, paginação, efeitos de transição e suporte a toques em dispositivos móveis. Swiper é leve e otimizado para desempenho, tornando-a uma escolha popular para desenvolvedores que desejam implementar carrosséis em suas páginas da web.
