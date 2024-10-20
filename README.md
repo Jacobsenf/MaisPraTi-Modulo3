@@ -39,5 +39,5 @@ Navegador: Um navegador web para visualizar seu projeto (ex: Google Chrome, Fire
 
 Abra o Projeto no Navegador
 
-Para visualizar seu projeto, localize o arquivo index.html na pasta do seu projeto.
+Para visualizar o projeto, localize o arquivo index.html na pasta do projeto.
 Clique com o botão direito do mouse no arquivo e escolha "Abrir com" e selecione o seu navegador de preferência.
