@@ -1,0 +1,126 @@
+body {
+    font-family: 'Agdasima', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #333;
+}
+
+header {
+    background: linear-gradient(to bottom, #480f38, #2c0b34); 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header .logo {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%; 
+    height: auto; 
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #ddd;
+}
+
+main {
+    display: flex;
+    margin: 20px;
+}
+
+section {
+    width: 70%;
+    background-color: #444;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+aside {
+    width: 30%;
+    background-color: #555;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 20px;
+    color: white;
+}
+
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside ul li a {
+    text-decoration: none;
+    color: #ddd;
+}
+
+aside ul li a:hover {
+    color: #6a0dad;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    border-radius: 0 0 15px 15px;
+}
+
+aside img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+aside img:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buy-button {
+    background-color: #6a0dad;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.buy-button:hover {
+    background-color: #552a8a;
+    transition: 0.3s;
+}
+
+section img {
+    display: block;
+    margin: 20px auto;  
+    max-width: 100%;
+    height: auto;
+}
